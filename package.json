@@ -1,7 +1,4 @@
 {
   "name": "a",
-  "version": "0.1.0",
-  "renovate": {
-    "foo": 1
-  }
+  "version": "0.1.0"
 }
