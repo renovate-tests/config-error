@@ -1,6 +1,5 @@
 {
   "extends": [
     "config:base"
-  ],
-  "foo": 1
+  ]
 }
